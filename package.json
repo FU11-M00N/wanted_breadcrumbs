@@ -1,0 +1,31 @@
+{
+   "name": "wanted_team",
+   "version": "1.0.0",
+   "description": "",
+   "main": "app.js",
+   "dependencies": {
+      "basic-auth": "^2.0.1",
+      "depd": "^2.0.0",
+      "ee-first": "^1.1.1",
+      "debug": "^2.6.9",
+      "morgan": "^1.10.0",
+      "on-finished": "^2.3.0",
+      "ms": "^2.0.0",
+      "on-headers": "^1.0.2",
+      "safe-buffer": "^5.1.2"
+   },
+   "devDependencies": {},
+   "scripts": {
+      "start": "nodemon app"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/FU11-M00N/wanted_breadcrumbs.git"
+   },
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/FU11-M00N/wanted_breadcrumbs/issues"
+   },
+   "homepage": "https://github.com/FU11-M00N/wanted_breadcrumbs#readme"
+}
