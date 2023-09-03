@@ -1,0 +1,14 @@
+{
+   "name": "wanted_team",
+   "version": "1.0.0",
+   "description": "",
+   "main": "app.js",
+   "scripts": {
+      "start": "nodemon app"
+   },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "morgan": "^1.10.0"
+   }
+}
